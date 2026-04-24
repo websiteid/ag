@@ -1,6 +1,6 @@
 const { Telegraf } = require('telegraf');
 
-const bot = new Telegraf('7836434671:AAEV8vwNfePDkv51Lp9CWUa7Kpm5ILWGqRE');
+const bot = new Telegraf('8528805758:AAEH2kolgFXSVKakBsreZ9N2iGX1yBAYglQ');
 const ADMIN_ID = 7598563861;
 
 // 1. Sambutan Selamat Datang
